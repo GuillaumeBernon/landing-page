@@ -1,0 +1,11 @@
+.bouton {
+    padding: 16px 32px;
+    background-color: #573280;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+    border-radius: 10px;
+
+.bouton:hover {
+	box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4)
+}

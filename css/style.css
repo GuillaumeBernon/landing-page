@@ -1,0 +1,13 @@
+@import url('components/bouton.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/menu.css');
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+
